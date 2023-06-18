@@ -14,7 +14,7 @@ O frontend da aplicação foi desenvolvido com Angular e o backend foi simulado 
 
 ## Protótipo
 
-*Em breve*
+https://www.figma.com/proto/35gzKYSEmwzOQHiaZymCga/StudyFlow?type=design&node-id=506-2791&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=506%3A2791&show-proto-sidebar=1
 
 ## Checklist
 
